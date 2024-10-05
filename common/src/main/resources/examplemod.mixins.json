@@ -7,7 +7,7 @@
     "mixins": [
     ],
     "client": [
-        "MixinMinecraft"
+      "com.tristanh.landofdrunir.mixin.MixinMinecraft"
     ],
     "server": [
     ],

@@ -1,8 +1,8 @@
-package com.example.examplemod;
+package com.tristanh.landofdrunir;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class LandOfDrunir implements ModInitializer {
     
     @Override
     public void onInitialize() {

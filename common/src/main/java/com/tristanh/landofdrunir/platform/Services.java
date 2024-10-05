@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package com.tristanh.landofdrunir.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.tristanh.landofdrunir.Constants;
+import com.tristanh.landofdrunir.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

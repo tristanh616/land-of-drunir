@@ -7,7 +7,7 @@
     "mixins": [
     ],
     "client": [
-        "MixinTitleScreen"
+      "com.tristanh.landofdrunir.mixin.MixinTitleScreen"
     ],
     "server": [
     ],

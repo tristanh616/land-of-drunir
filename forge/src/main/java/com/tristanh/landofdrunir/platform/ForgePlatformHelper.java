@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package com.tristanh.landofdrunir.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.tristanh.landofdrunir.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 
